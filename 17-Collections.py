@@ -72,7 +72,7 @@ d={'Japan':'Tokyo','India':'Delhi'}
 # for v in values:
 #     print(v)
 
-items=d.items()
 
-for k in items:
+
+for k in d:
     print(k)
